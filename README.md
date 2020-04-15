@@ -1,3 +1,5 @@
 # WebApp
- A web project made whit a JS lib 
+ Web page made with the responsive css.
+
 #odiegosilva1
+http://twitter.com/odiegosilva1
