@@ -7,29 +7,34 @@ html, body {
 
 header {
     background: oldlace;
-    height: 100px;    
+    grid-area: h; 
 }
 
 main {
     background: grey;
-    height: 100px;    
+    grid-area: m;     
 }
 
 aside {
-    background:burlywood;
-    height: 100px;    
+    background:burlywood;    
+    grid-area: a;
 }
-
 footer {
     background: tomato;
-    height: 100px;    
+    grid-area: f;
+    
+     
 }
 
 .container {
     display: grid;
     grid-template-columns: 3fr 1fr; 
     grid-template-rows: 20vh 70vh 10vh;
-
-    grid-gap: 20px;
+    grid-template-areas: "h h"
+                         "m a"
+                         "f f "
+    
+    
 
 }
+  
