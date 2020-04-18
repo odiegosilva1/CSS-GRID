@@ -4,3 +4,32 @@ html, body {
     box-sizing:border-box;
     background: #7159c1;
 }
+
+header {
+    background: oldlace;
+    height: 100px;    
+}
+
+main {
+    background: grey;
+    height: 100px;    
+}
+
+aside {
+    background:burlywood;
+    height: 100px;    
+}
+
+footer {
+    background: tomato;
+    height: 100px;    
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 3fr 1fr; 
+    grid-template-rows: 20vh 70vh 10vh;
+
+    grid-gap: 20px;
+
+}
