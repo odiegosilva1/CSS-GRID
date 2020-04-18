@@ -1,5 +1,5 @@
 # CSS GRID
- Web page made with the responsive css.
+Como funciona o GRID e FLEX BOX com CSS
 
 
 ## GRID
