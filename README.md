@@ -50,6 +50,18 @@ Vamos separar em 2 grupos:
 
 ... e mais  2 propiedades de **alinhamento**
 
+Existem 6 propriedades para alinhamentos:
+1. `justify-content`
+2. `align--content`
+3. `justify-items`
+4. ` align-items`
+5. `justify-self`
+6. `align-self`
+
+
+
+
+
 
 #odiegosilva1
 http://twitter.com/odiegosilva1
